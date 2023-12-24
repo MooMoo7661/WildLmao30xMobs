@@ -1,0 +1,6 @@
+displayName = Wild's 30x Mobs
+author = MooMoo
+version = 1.0
+hideCode = false
+hideResources = false
+includeSource = true
